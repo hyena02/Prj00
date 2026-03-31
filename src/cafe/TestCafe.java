@@ -153,7 +153,7 @@ class CafeOrder implements IPO{
 			String packCon = (vo.getPackCon()=='Y')? "포장": "매장";
 			vo.setPackCon(packCon);
 			
-			
+			  
 		}//for
 		
 	}// process
