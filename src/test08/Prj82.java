@@ -163,7 +163,7 @@ class Salary implements Ipo{
 //		System.out.printf(fmt, s.getId(),s.getName(),s.getDate(),s.getPrice(),s.getBonus(),s.getKum(),s.getTcode());
 	}//output
 }
-
+  
 
 public class Prj82 {
 	public static void main(String[] args) {
